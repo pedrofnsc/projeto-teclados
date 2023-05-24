@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @font-face {
     font-family: "Inconsolata";
-    src: url(/src/fonts/Inconsolata-Regular.ttf) format("truetype");
+    src: url(src/fonts/Inconsolata-Regular.ttf) format("truetype");
 }
 
 
@@ -175,6 +175,7 @@ aside {
 aside p {
     text-align: justify;
     max-width: 780px;
+    margin-right: 7px;
 }
 
 footer{
