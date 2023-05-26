@@ -170,12 +170,13 @@ aside {
     margin: 0px 0px -10px -10px;
     border-radius: 0px 0px 10px 15px;
     padding-left: 10px;
+    padding-top: 10px;
 }
 
 aside p {
     text-align: justify;
     max-width: 780px;
-    margin-right: 7px;
+    margin-right: 25px;
 }
 
 footer{
